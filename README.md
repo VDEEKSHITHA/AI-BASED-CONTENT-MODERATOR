@@ -119,5 +119,5 @@ The AI-Based Content Moderator project presents a powerful solution for detectin
 
 🚀 This project focuses on AI-based content moderation using NLP & deep learning.
 
-🔒 The source code is private for security reasons. If you’d like access, please contact [].
+🔒 The source code is private for security reasons. If you’d like access, please contact [https://github.com/VDEEKSHITHA].
 
